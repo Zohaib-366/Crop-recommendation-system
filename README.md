@@ -1,8 +1,6 @@
 # Crop-recommendation-system
 "ML-based crop recommendation system using environmental data."
-Sure! Here's the complete content for your `README.md` file in proper Markdown format:
 
-```markdown
 # 🌾 Crop Recommendation System
 
 This project provides a Machine Learning-based solution to recommend the most suitable crop to grow based on environmental conditions such as **soil nutrients**, **temperature**, **humidity**, **pH**, and **rainfall**.
